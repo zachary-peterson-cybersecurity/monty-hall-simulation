@@ -26,3 +26,5 @@ The simulation shows that switching wins more often, usually close to **2/3 of t
 
 ```bash
 python monty_hall.py
+
+## Sample Output
