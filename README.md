@@ -28,3 +28,5 @@ The simulation shows that switching wins more often, usually close to **2/3 of t
 python monty_hall.py
 
 ## Sample Output
+
+![Monty Hall simulation output](images/Monty_Hall_Output.png)
